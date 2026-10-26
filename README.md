@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi there 👋, I'm Shyam.
 
-<!--
-**shyamspunia/shyamspunia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an engineering graduate with a passion for programming. I have experience working with backend languages like Python and Java, as well as front-end technologies like HTML, CSS, and JavaScript.
 
-Here are some ideas to get you started:
+### Current Focus & Projects
+* **Skills:** I'm actively refining my programming and software development skills.
+* **Weather Forecast Application:** Built a web app using Python and the Django framework. Integrated the OpenWeatherMap API to fetch and display real-time weather information based on user-searched cities.
+* 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
